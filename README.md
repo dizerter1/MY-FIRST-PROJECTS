@@ -7,3 +7,4 @@
 # goldsilver faylida esa kumush va oltinni seaborn orqali tahlil qilganman
 
 # kirish_puli faylida Amerika universitetlarini seaborn orqali tahlil qilganman
+ ## hi
